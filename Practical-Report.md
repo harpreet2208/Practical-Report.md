@@ -1023,4 +1023,3 @@ Enter the Number: 8
       Enter the Number: 8
       8 is not a Prime Number
       
-# 28. Program 
