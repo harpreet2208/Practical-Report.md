@@ -2,7 +2,7 @@
 ##   NAME-*HARPREET KAUR*
 ##   ROLL NO-*1914053*
 ##   BRANCH-*CIVIL*
-##   SECTION-*CE(B2)*
+##   SECTION-*CE(A2) *
 ![LOGO](https://blog.coachingkaro.org/wp-content/uploads/2019/07/logo.jpg)
 ## **DEPARTMENT OF CIVIL ENGENEERING**
 # **GURU NANAK DEV ENGENEERING COLLEGE,LUDHIANA**
